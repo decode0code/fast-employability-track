@@ -31,3 +31,8 @@ if __name__ == "__main__":
     demo_examples()
     print("\n--- Interactive section below ---")
     interactive_part()
+
+
+    age = 25
+print(f"I am {age} years old.")
+
